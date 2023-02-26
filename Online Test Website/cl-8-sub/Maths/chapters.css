@@ -1,0 +1,411 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #252525;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ch1 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    
+}
+
+.ch1 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+
+.ch2 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    
+}
+
+.ch2 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+
+.ch3 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 35%;
+    left: 0%;
+    
+}
+
+.ch3 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch4 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 45%;
+    left: 0%;
+    
+}
+
+.ch4 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch5 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 55%;
+    left: 0%;
+    
+}
+
+.ch5 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch6 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 65%;
+    left: 0%;
+    
+}
+
+.ch6 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch7 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    
+}
+
+.ch7 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch8 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 85%;
+    left: 0%;
+    
+}
+
+.ch8 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch9 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 95%;
+    left: 0%;
+    
+}
+
+.ch9 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch10 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 105%;
+    left: 0%;
+    
+}
+
+.ch10 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch11 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 115%;
+    left: 0%;
+    
+}
+
+.ch11 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch12 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 125%;
+    left: 0%;
+    
+}
+
+.ch12 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch13 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 135%;
+    left: 0%;
+    
+}
+
+.ch13 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+.ch14 button {
+    color: #f32179;
+    padding: 1px;
+    border-color: #f32179;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: transparent;
+    border-radius: 3em;
+    cursor: pointer;
+    letter-spacing: 4px;
+    margin-left: 16px;
+    
+
+    position: absolute;
+    top: 145%;
+    left: 0%;
+    
+}
+
+.ch14 button:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --gold: #ffb338;
+    --light-shadow: #77571d;
+    --dark-shadow: #3e2904;
+   
+  }
+  body {
+    margin: 0;
+  }
+  .wrapper {
+    background: radial-gradient(#272727, #1b1b1b);
+    display: grid;
+    grid-template-areas: 'overlap';
+    place-content: center;
+    text-transform: uppercase;
+    height: 100vh;
+  }
+  .wrapper > div {
+    background-clip: text;  
+    -webkit-background-clip: text;
+    color: #363833;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 90;
+    font-size: clamp( 3em, 8vw, 2rem);
+    grid-area: overlap;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 4px transparent;
+
+    position: absolute;
+    top: 0%;
+    right: 30%;
+  }
+
+  div.fg{
+    background-image: repeating-linear-gradient( 5deg,  
+      var(--gold) 0% , 
+      var(--light-shadow) 23%, 
+      var(--gold) 31%);
+    color: #1e2127;
+    transform: scale(1);
+  }
